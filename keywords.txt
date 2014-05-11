@@ -1,0 +1,11 @@
+Ardumoto	KEYWORD1
+init	KEYWORD2
+forw	KEYWORD2
+back	KEYWORD2
+forward	KEYWORD2
+backward	KEYWORD2
+stopped	KEYWORD2
+astop	KEYWORD2
+bstop	KEYWORD2
+fadein	KEYWORD2
+fadeout	KEYWORD2
